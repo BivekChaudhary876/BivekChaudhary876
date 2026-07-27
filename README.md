@@ -1,6 +1,6 @@
 # Hi 👋 I'm Bivek Chaudhary
 
-🎓 Master of Information Technology Student | Griffith University
+🎓 Master of Information Technology Student | Software Development Major | Griffith University
 
 💻 Software Developer | Web Development |Java | Python | Machine Learning
 
