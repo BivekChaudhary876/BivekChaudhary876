@@ -2,7 +2,7 @@
 
 🎓 Master of Information Technology Student | Software Development Major | Griffith University
 
-💻 Software Developer | Web Development |Java | Python | Machine Learning
+💻 Software Developer | Web Development | Java | Python | Machine Learning
 
 📍 Gold Coast, Queensland, Australia
 
